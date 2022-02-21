@@ -5,3 +5,5 @@ Criei um Branch de testes
 teste vscode
 
 coloquei mais coisa
+
+atualizado 2.0
